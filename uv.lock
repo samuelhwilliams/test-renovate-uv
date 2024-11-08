@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "flask" }]
+requires-dist = [{ name = "flask", specifier = "==1.1.4" }]
 
 [[package]]
 name = "itsdangerous"
